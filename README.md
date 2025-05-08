@@ -1,3 +1,5 @@
+## This is just FabricProxy-Lite but merged with [PR#68](https://github.com/OKTW-Network/FabricProxy-Lite/pull/68). [Download here](https://github.com/virtualspan/FabricProxy-Lite/releases/tag/v2.9.0%2BPR%2368)
+
 # FabricProxy-Lite
 
 Same as [FabricProxy](https://github.com/OKTW-Network/FabricProxy) but only support velocity and using Fabric-API handle
